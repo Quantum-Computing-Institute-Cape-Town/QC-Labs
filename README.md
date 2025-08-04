@@ -1,2 +1,4 @@
 # QC-Labs
 These labs introduce core quantum computing concepts through code-based exercises using Qiskit. Students build and simulate quantum circuits, visualize results, and explore quantum behavior through practical examples.
+
+#### Lab 01: Building and Simulating a Simple Quantum Circuit
