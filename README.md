@@ -10,6 +10,22 @@ These labs introduce core quantum computing concepts through code-based exercise
 [Lab 07](Lab%2007%20-%20Simons%20algorithm.ipynb): Simon's algorithm<br>
 [Lab 08](Lab%2008%20-%20Grover%20Search%20Algorithm.ipynb): Grover Search Algorithm.ipynb<br>
 
-<br><br><br>
+<br>
+
+## Note
+You can also load these examples into Google Colab by going to **File > Open notebook** and then selecting the **GitHub** tab. Enter the following URL to access the repository: `Quantum-Computing-Institute-Cape-Town/QC-Labs`.
+
+Since Colab's default display behavior might not show all plots in a single cell, you may need to explicitly import the display library to force each plot to render. This ensures that all your plots appear, not just the last one.
+
+```python
+from IPython.display import display
+
+# Assuming you have defined counts1 and counts2
+hist1 = plot_histogram(counts1)
+display(hist1)
+
+hist2 = plot_histogram(counts2)
+display(hist2)
+```
 ---
 Quantum Computing Institute | https://qcict.org
