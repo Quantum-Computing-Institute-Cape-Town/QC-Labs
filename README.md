@@ -6,7 +6,7 @@ These labs introduce core quantum computing concepts through code-based exercise
 [Lab 03](Lab%2003%20-%20Bell%20state.ipynb): Creating and Measuring a Bell State<br>
 [Lab 04](Lab%2004%20-%20Conditional%20Bell%20State%20Encoding.ipynb): Conditional Bell State Encoding<br>
 [Lab 05](Lab%2005%20-%20Deutsch–Jozsa%20algorithm.ipynb): Deutsch–Jozsa algorithm<br>
-[Lab06](Lab06%20-%20Bernstein–Vazirani%20algorithm.ipynb): Bernstein–Vazirani algorithm<br>
+[Lab 06](Lab%2006%20-%20Bernstein–Vazirani%20algorithm.ipynb): Bernstein–Vazirani algorithm<br>
 [Lab 07](Lab%2007%20-%20Simons%20algorithm.ipynb): Simon's algorithm<br>
 [Lab 08](Lab%2008%20-%20Grover%20Search%20Algorithm.ipynb): Grover Search Algorithm.ipynb<br>
 
