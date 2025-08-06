@@ -12,7 +12,7 @@ These labs introduce core quantum computing concepts through code-based exercise
 
 <br>
 
-## Note
+### Google Colab Note
 These examples can also be opened in Google Colab by going to **File > Open notebook** and then selecting the **GitHub** tab. Enter the following URL to access the repository: `Quantum-Computing-Institute-Cape-Town/QC-Labs`.
 
 Since Colab's default display behavior might not show all plots in a single cell, you may need to explicitly import the display library to force each plot to render. This ensures that all your plots appear, not just the last one.
