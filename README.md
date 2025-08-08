@@ -9,6 +9,7 @@ These labs introduce core quantum computing concepts through code-based exercise
 [Lab 06](Lab%2006%20-%20Bernstein–Vazirani%20algorithm.ipynb): Bernstein–Vazirani algorithm<br>
 [Lab 07](Lab%2007%20-%20Simons%20algorithm.ipynb): Simon's algorithm<br>
 [Lab 08](Lab%2008%20-%20Grover%20Search%20Algorithm.ipynb): Grover Search Algorithm.ipynb<br>
+[Lab 09](Lab%2009%20-%20Grover%20SAT%20Solver.ipynb): Grover SAT Solver<br>
 
 <br>
 
