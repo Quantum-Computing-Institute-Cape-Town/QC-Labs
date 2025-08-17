@@ -16,8 +16,26 @@ These labs introduce core quantum computing concepts through code-based exercise
 <br>
 
 ### Google Colab Note
-These examples are compatible with Google Colab. To access them, go to **File > Open notebook**, select the **GitHub tab**, and enter the repository URL: 
-`Quantum-Computing-Institute-Cape-Town/QC-Labs`.
+
+These examples are fully compatible with **Google Colab**. To open them:
+
+1. Go to **File > Open notebook**
+2. Select the **GitHub** tab
+3. Enter the repository URL:
+   ```
+   Quantum-Computing-Institute-Cape-Town/QC-Labs
+   ```
+
+Before running the examples, install Qiskit by executing the following commands in the first cell:
+
+```bash
+!pip install qiskit
+!pip install qiskit-aer
+!pip install qiskit[visualization]
+```
+
+> **Note:** After installation, you may need to **restart the runtime** in Colab for the changes to take effect.
+
 
 ---
 Quantum Computing Institute | https://qcict.org
