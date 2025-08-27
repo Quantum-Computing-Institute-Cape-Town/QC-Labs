@@ -20,6 +20,7 @@ These labs introduce core quantum computing concepts through code-based exercise
 
 These examples are fully compatible with **Google Colab**. To open them:
 
+1. Open **[Google Colab](https://colab.google.com/)** and log in with a Google account.
 1. Go to **File > Open notebook**
 2. Select the **GitHub** tab
 3. Enter the repository URL:
