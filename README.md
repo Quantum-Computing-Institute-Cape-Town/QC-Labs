@@ -32,6 +32,7 @@ Before running the examples, install Qiskit by executing the following commands 
 !pip install qiskit
 !pip install qiskit-aer
 !pip install qiskit[visualization]
+!pip install qiskit_ibm_runtime
 ```
 
 > **Note:** After installation, you may need to **restart the runtime** in Colab for the changes to take effect.
