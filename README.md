@@ -20,7 +20,7 @@ These labs introduce core quantum computing concepts through code-based exercise
 [Lab 13](Lab%2013%20-%20Superdense%20coding.ipynb): Superdense Coding<br>
 [Lab 14](Lab%2014%20-%20Quantum%20Teleportation.ipynb): Quantum Teleportation<br>
 ### Quantum Cryptography
-[Lab 15](Lab%2015%20-%20Quantum%20authentication%20protocol.ipynb):Quantum authentication protocol
+[Lab 15](Lab%2015%20-%20Quantum%20authentication%20protocol.ipynb): Quantum authentication protocol
 ### Quantum Machine Learning
 [Lab 16](Lab%2016%20-%20Minimal%202-qubit%20QBM.ipynb): Minimal 2-qubit Quantum Born Machine (QBM)<br>
 
