@@ -25,7 +25,7 @@ These labs introduce core quantum computing concepts through code-based exercise
 ### Quantum Machine Learning
 [Lab 17](Lab%2017%20-%20Grover%20Classifier.ipynb): Grover Classifier<br>
 [Lab 18](Lab%2018%20-%20Minimal%202-qubit%20QBM.ipynb): Minimal 2-qubit Quantum Born Machine (QBM)<br>
-[Lab 10](Lab%2019%20-%203-qubit%20QBM.ipynb): 3-Qubit QBM for Coffee Shop Simulation<br>
+[Lab 19](Lab%2019%20-%203-qubit%20QBM.ipynb): 3-Qubit QBM for Coffee Shop Simulation<br>
 [Lab 20](Lab%2020%20-%204-qubit%202-layer%20QBM.ipynb): 4-qubit 2-layer QBM for Traffic Simulation<br>
 [Lab 21](Lab%2021%20-%202-Qubit%20VQC%20Classifier.ipynb): 2-Qubit Variational Quantum Classifier
 
