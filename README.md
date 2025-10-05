@@ -11,6 +11,7 @@ These labs introduce core quantum computing concepts through code-based exercise
 [Lab 06](Lab%2006%20-%20Conditional%20Bell%20State%20Encoding.ipynb): Conditional Bell State Encoding<br>
 [Lab 07](Lab%2007%20-%20Ramsey%20phase%20estimation.ipynb): Single Qubit Ramsey-like Phase Estimation<br>
 [Lab 08](Lab%2008%20-%20Quantum%20Fourier%20Transform.ipynb): Quantum Fourier Transform
+[Lab 09](Lab%2009%20-%20Kitaev%20Phase%20Estimation.ipynb): Kitaev Phase Estimation.ipynb
 ### Quantum Algorithms
 [Lab 09](Lab%2009%20-%20Deutsch–Jozsa%20algorithm.ipynb): Deutsch–Jozsa Algorithm<br>
 [Lab 10](Lab%2010%20-%20Bernstein–Vazirani%20algorithm.ipynb): Bernstein–Vazirani Algorithm<br>
