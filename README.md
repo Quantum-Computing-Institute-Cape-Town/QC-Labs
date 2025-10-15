@@ -1,4 +1,4 @@
-# QC Labs
+## QC Labs
 <img src="images/Amazon-paperback-front.jpg" align="right" width="250" alt="Amazon books">
 These labs introduce core quantum computing concepts through code-based exercises using Qiskit. Students build and simulate quantum circuits, visualize results, and explore quantum behavior through practical examples.  
 
