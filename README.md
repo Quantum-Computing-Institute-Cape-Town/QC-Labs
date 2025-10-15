@@ -1,5 +1,10 @@
 # QC Labs
-These labs introduce core quantum computing concepts through code-based exercises using Qiskit. Students build and simulate quantum circuits, visualize results, and explore quantum behavior through practical examples.
+<img src="images/Amazon-paperback-front.jpg" align="right" width="250" alt="Amazon books">
+These labs introduce core quantum computing concepts through code-based exercises using Qiskit. Students build and simulate quantum circuits, visualize results, and explore quantum behavior through practical examples.  
+
+For a deeper theoretical foundation, the accompanying book *Quantum Computing: Problems and Solutions*  offers structured mathematical exercises that complement these practical labs.<br>
+([Paperback](https://www.amazon.com/dp/B0FW6K3R3L) | [Kindle](https://www.amazon.com/dp/B0FW8P257M))
+
 
 ### Qubits
 [Lab 01](Lab%2001%20-%20Bloch%20Sphere.ipynb): Bloch Sphere<br>
