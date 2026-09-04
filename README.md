@@ -57,6 +57,7 @@ Before running a QC Lab notebook, insert a new code cell at the beginning of the
 ```
 
 ### Running QC Labs on a Mobile Simulator
+<img src="images/MobileSimulator.png" align="right" width="100" alt="MobileSimulator">
 
 Prof. Fujio Yamamoto's mobile quantum computing simulator provides another way to run and explore QC Labs, together with additional quantum computing examples, directly on a mobile device.
 
