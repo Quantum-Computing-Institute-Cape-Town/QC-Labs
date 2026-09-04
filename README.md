@@ -36,9 +36,11 @@ For a deeper theoretical foundation, the accompanying book *Quantum Computing: P
 [Lab 22](Lab%2022%20-%204-qubit%202-layer%20QBM.ipynb): 4-qubit 2-layer QBM for Traffic Simulation<br>
 [Lab 23](Lab%2023%20-%202-Qubit%20VQC%20Classifier.ipynb): 2-Qubit Variational Quantum Classifier
 
-### Google Colab Note
+### Running QC Labs on Google Colab
 
-These examples are fully compatible with **Google Colab**. To open them:
+All QC Labs notebooks can be run directly in Google Colab, without installing Python, Qiskit, or any other software on your computer.
+
+To open and run a lab in Google Colab:
 
 1. Open **[Google Colab](https://colab.google.com/)** and log in with a Google account.
 1. Go to **File > Open notebook**
@@ -48,16 +50,17 @@ These examples are fully compatible with **Google Colab**. To open them:
    Quantum-Computing-Institute-Cape-Town/QC-Labs
    ```
 
-Before running the examples, install Qiskit by executing the following commands in the first cell:
+Before running a QC Lab notebook, insert a new code cell at the beginning of the notebook and run:
 
 ```bash
-!pip install qiskit
-!pip install qiskit-aer
-!pip install qiskit[visualization]
-!pip install qiskit_ibm_runtime
+!pip install -qq -U qiskit qiskit-aer "qiskit[visualization]" qiskit_ibm_runtime
 ```
 
-> **Note:** After installation, you may need to **restart the runtime** in Colab for the changes to take effect.
+### Running QC Labs on a Mobile Simulator
+
+Prof. Fujio Yamamoto's mobile quantum computing simulator provides another way to run and explore QC Labs, together with additional quantum computing examples, directly on a mobile device.
+
+[Learn more about the mobile simulator](https://sparse-dense.blogspot.com/2026/09/learning-quantum-computing-with-mobile.html)
 
 
 ---
